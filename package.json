@@ -1,5 +1,5 @@
 {
-  "name": "formiojs",
+  "name": "snsw-formiojs",
   "version": "3.6.3",
   "description": "Common js library for client side interaction with <form.io>",
   "main": "index.js",
