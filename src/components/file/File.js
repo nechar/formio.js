@@ -285,7 +285,7 @@ export default class FileComponent extends BaseComponent {
 
     navigator.getMedia(
       {
-        video: true,
+        video: { width: 1280, height: 720 },
         audio: false
       },
       (stream) => {
